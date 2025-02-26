@@ -1,0 +1,93 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "context": "Para una aplicación donde se requiere medir con alta precisión la viscosidad de un fluido.",
+            "question": "¿Qué tipo de viscómetro sería el más adecuado para utilizar?",
+            "options": [
+                "A. Viscómetro de cono y plato, puesto que no depende de la posición radial y la tasa de corte es casi constante a lo largo de todo el fluido, facilitando mediciones uniformes.",
+                "B: Viscómetro de Coutte, ya que no requiere de grandes volúmenes de fluido para obtener mediciones precisas de la viscosidad del mismo.",
+                "C. Viscómetro de Coutte, ya que este permite obtener una medida de la viscosidad determinando la velocidad angular aplicada a una tasa de corte constante.",
+                "D. Ninguna de las anteriores"
+            ],
+            "correct_answer": "A. Viscómetro de cono y plato, puesto que no depende de la posición radial y la tasa de corte es casi constante a lo largo de todo el fluido, facilitando mediciones uniformes.",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "context": "La fluencia (yield stress) de la sangre es una propiedad definida por el valor del hematocrito y la concentración másica de fibrinógeno. Para un H = 0.57 y un ρf = 0.64 g/dl ",
+            "question": "calcule la fluencia (τ 1/2) de la sangre.",
+            "options": [
+                "A. 0.234",
+                "B. 0.735",
+                "C. 0.629",
+                "D. 0.436"
+            ],
+            "correct_answer": "D. 0.436",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "context": "En el análisis del balance de momentum para un sistema tridimensional en coordenadas cartesianas.",
+            "question": "¿Es correcto considerar que la aproximación total puede ser vista como la suma de las aproximaciones individuales para cada dimensión?",
+            "options": [
+                "Verdadero",
+                "Falso"
+            ],
+            "correct_answer": "Verdadero",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "context": "Un fluido fluye en un canal horizontal cuya longitud es de 2.4 cm.",
+            "question": "Calcule el número de Reynolds si la viscosidad cinemática del fluido es 1.2e-3 m²/s y se transporta a una velocidad de 0.8 km/h.",
+            "options": [
+                "A. 4.4",
+                "B. 2.35",
+                "C. 4.93",
+                "D. 2.1"
+            ],
+            "correct_answer": "A. 4.4",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "context": "Un paciente visita una clínica donde se le realiza un examen de rutina para medir su valor de hematocrito. Al obtener sus resultados, el doctor le comenta que encontró una ligera variación respecto al examen que se había realizado el año anterior, pues esta fracción pasó de 0.54 a un valor mucho menor. De camino a casa, el paciente se pregunta qué tan grande habrá sido la variación. Sin embargo, se da cuenta que la hoja de los resultados se manchó y no aparece la fracción de hematocrito nueva. Muy decepcionado de esto, pero con mucha curiosidad, decidió buscar ayuda con un ingeniero biomédico, puesto que escuchó un rumor de que con sus datos de viscosidad sanguínea aparente (5cp) y viscosidad del plasma (1,5cp) el ingeniero sería capaz de encontrar la diferencia de la que hablaba el doctor.",
+            "question": "¿Cuál es el valor de dicha variación?",
+            "options": [
+                "A. 0.14",
+                "B. 0.21",
+                "C. 0.33",
+                "D. 0.4"
+            ],
+            "correct_answer": "A. 0.14",
+            "image": "images/IMG_Pregunta5.PNG"
+        },
+        {
+            "id": 6,
+            "context": "En una tarde agradable usted se encuentra discutiendo con sus amigos sobre el efecto Fåhraeus–Lindqvist, uno de ellos argumenta que este concepto es aplicable a cualquier fluido con partículas suspendidas del tamaño de los glóbulos rojos y otras más grandes, permitiendo que en tubo de radio menor a 4µm las partículas de interés se muevan más rápido por el centro de este.",
+            "question": "¿Qué le contestaría usted?",
+            "options": [
+                "A. Que se encuentra en lo correcto, puesto que el efecto se maximiza precisamente para radios de hasta 4 µm",
+                "B. Que se encuentra equivocado, puesto que, si bien el efecto funciona para ese rango de valores, el fluido requiere partículas más pequeñas que las de interés.",
+                "C. Que se encuentra equivocado, puesto que, por un lado, el efecto no funciona para ese rango de valores, y además el fluido requiere partículas más pequeñas que las de interés.",
+                "Ninguna de las anteriores."
+            ],
+            "correct_answer": "C. Que se encuentra equivocado, puesto que, por un lado, el efecto no funciona para ese rango de valores, y además el fluido requiere partículas más pequeñas que las de interés.",
+            "image": "images/IMG_Pregunta6.PNG"
+        },
+        {
+            "id": 7,
+            "context": "Usted se encuentra realizando el balance de momentum para un fluido contenido entre dos placas horizontales.",
+            "question": "Para plantear la ecuación del balance ¿qué debería tener en cuenta?",
+            "options": [
+                "A. Tasa de entrada de momentum en dirección x, y fuerzas en x.",
+                "B. Tasa de entrada de momentum en dirección y, tasa de salida en dirección radial.",
+                "C. Tasa de entrada y salida en todas las direcciones.",
+                "D. Tasa de entrada en x y tasa de salida en y."
+            ],
+            "correct_answer": "A. Tasa de entrada de momentum en dirección x, y fuerzas en x.",
+            "image": ""
+        }
+    ]
+}
